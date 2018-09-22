@@ -4,10 +4,10 @@
 
 int main() {
 
-	int 1;
+	float 1;
 	
 	fprintf(stdout, "1"\n); //STDOUT
-	scanf("%d", &x);
+	
 
 
 return 0;
