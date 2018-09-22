@@ -4,9 +4,9 @@
 
 int main() {
 
-	int x;
+	int 1;
 	
-	printf("Enter an integer"); //STDOUT
+	fprintf(stdout, "1"\n); //STDOUT
 	scanf("%d", &x);
 
 
