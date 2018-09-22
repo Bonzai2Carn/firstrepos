@@ -4,7 +4,7 @@
 
 int main() {
 
-	float 1;
+	int 1;
 	
 	fprintf(stdout, "1"\n); //STDOUT
 	
